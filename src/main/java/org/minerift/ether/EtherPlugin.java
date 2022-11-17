@@ -8,6 +8,7 @@ public class EtherPlugin extends JavaPlugin {
 
     @Override
     public void onEnable() {
+
         INSTANCE = this;
 
     }
